@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/EarthPollution/static/css/main.c9c9dd56.css",
-    "main.js": "/EarthPollution/static/js/main.48ed6ea0.js",
-    "index.html": "/EarthPollution/index.html",
-    "main.c9c9dd56.css.map": "/EarthPollution/static/css/main.c9c9dd56.css.map",
-    "main.48ed6ea0.js.map": "/EarthPollution/static/js/main.48ed6ea0.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.c9c9dd56.css",
-    "static/js/main.48ed6ea0.js"
-  ]
+  "main.css": "/EarthPollution/static/css/main.6ff3ca85.chunk.css",
+  "main.js": "/EarthPollution/static/js/main.baee88f3.chunk.js",
+  "main.js.map": "/EarthPollution/static/js/main.baee88f3.chunk.js.map",
+  "static/js/1.2a755652.chunk.js": "/EarthPollution/static/js/1.2a755652.chunk.js",
+  "static/js/1.2a755652.chunk.js.map": "/EarthPollution/static/js/1.2a755652.chunk.js.map",
+  "runtime~main.js": "/EarthPollution/static/js/runtime~main.757623e7.js",
+  "runtime~main.js.map": "/EarthPollution/static/js/runtime~main.757623e7.js.map",
+  "static/css/main.6ff3ca85.chunk.css.map": "/EarthPollution/static/css/main.6ff3ca85.chunk.css.map",
+  "index.html": "/EarthPollution/index.html",
+  "precache-manifest.be5abcd3ac3cd68901cde0c07c8b0906.js": "/EarthPollution/precache-manifest.be5abcd3ac3cd68901cde0c07c8b0906.js",
+  "service-worker.js": "/EarthPollution/service-worker.js"
 }
