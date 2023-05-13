@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EarthPollution/static/css/main.c9c9dd56.css",
+    "main.js": "/EarthPollution/static/js/main.48ed6ea0.js",
+    "index.html": "/EarthPollution/index.html",
+    "main.c9c9dd56.css.map": "/EarthPollution/static/css/main.c9c9dd56.css.map",
+    "main.48ed6ea0.js.map": "/EarthPollution/static/js/main.48ed6ea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c9dd56.css",
+    "static/js/main.48ed6ea0.js"
+  ]
+}
